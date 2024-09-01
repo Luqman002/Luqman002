@@ -11,7 +11,7 @@ MERN Stack: Developing skills in full-stack JavaScript development.
 HTML & CSS: I can help you with responsive design, layout techniques, and best practices.
 Web Development: I'm always up for discussing web development trends, tools, and frameworks.
 📫 How to Reach Me
-Email: your-mohdluqman002@gmail.com
+Email:mohdluqman002@gmail.com
 LinkedIn: Muhammad Luqman
 GitHub: @luqman002
 ⚡ Fun Fact
